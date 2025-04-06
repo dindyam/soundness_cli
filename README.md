@@ -1,7 +1,9 @@
 # Soundness Testnet Registration
+
 ## Link:
-## https://soundness.xyz/
-## ➖ Submit your email
+## 🔗 https://soundness.xyz/
+
+## 🍃 Submit your email
 
 # Generate Your Key here
 ```bash
@@ -30,11 +32,10 @@ soundness-cli generate-key --name my-key
 ```bash
 soundness-cli export-key --name my-key
 ```
-## ➖ Save your Phrase and Pub-Key
-## ➖ Join Discord (https://discord.gg/NbStGdsh)
-## ➖ Go to #Testnet-access > Submit your Pub-Key
-##✅ Done!
+## 🍃 Save your Phrase and Pub-Key
 
-## Details: 
-## https://x.com/SoundnessLabs/status/1902389758527152586
+## 🍃 Join Discord (https://discord.gg/NbStGdsh)
 
+## 🍃 Go to #Testnet-access > Submit your Pub-Key
+
+## That's all 🍃🐺
